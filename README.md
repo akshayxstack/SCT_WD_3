@@ -1,4 +1,12 @@
-Tic Tac Toe Pro - Browser-Based Game
+**Tic Tac Toe Pro - Browser-Based Game**
+
+SkillCraft Technology Internship – Task 1
+
+Author: CH D S Akshay
+
+Domain: Web Development
+
+
 Tic Tac Toe Pro is an interactive browser-based game created as Task 3 of my internship at Skill Craft Technology!  It gives you a great way for two players to play Tic Tac Toe online with a fun interface that is responsive. 
 
 Project Summary
